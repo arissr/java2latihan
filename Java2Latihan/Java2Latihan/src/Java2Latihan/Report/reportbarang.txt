@@ -1,0 +1,43 @@
+
+
+
+                    LAPORAN STOK BARANG
+
+      Kode    Nama Bara     Harga      Jumlah       Subt
+
+  K0001       Amplop       5500        5            27500
+
+  K0002       Buku Gamba   4000        3            12000
+
+  K0003       HVS A4       60000       4            240000
+
+  K0004       Sampul Ben   500         35           17500
+
+  K0005       Klip Hitam   500         40           20000
+
+  K0006       Gunting      5500        7            38500
+
+  K0007       Pulpen Mer   15000       10           150000
+
+  K0008       Map Coklat   1500        20           30000
+
+  K0009       Lem Kertas   4500        20           90000
+
+  K0010       Penggaris    3000        6            18000
+
+                                       Grand Tot    643500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
